@@ -21,7 +21,7 @@ The app connects to the internet to load ads and Google's consent form, and to o
 - **Foreground service and wake lock** — to keep music playing when the screen is off.
 
 ## Lock screen, car and watch
-What is playing (title, artist, album cover) is shared with Android's media controls so it can appear on the lock screen, in notifications, on Android Auto and on a connected watch. This happens on your device and with the car or watch you connect. If you enable the Last.fm option, the title of the playing song is sent to the scrobbler app you installed; the app itself does not contact Last.fm.
+What is playing (title, artist, album cover) is shared with Android's media controls so it can appear on the lock screen, in notifications, on Android Auto and on a connected watch. This happens on your device and with the car or watch you connect.
 
 ## Ads and consent (Google AdMob)
 The app displays banner, native, interstitial and rewarded ads through the Google Mobile Ads SDK. Depending on your region and choices, Google and its ad partners may use identifiers such as the advertising ID, IP address (and a coarse location derived from it) and device information to show and measure ads and to prevent fraud. In regions where the law requires it (for example the EEA, the UK and some US states) the app shows Google's consent form before ads are requested, and you can change your choice at any time under **Settings → Ads → Ad privacy settings**. If you decline, you can still use the app. You can also watch a short rewarded video to switch ads off for one hour (Settings → Ads). Learn more: https://policies.google.com/technologies/ads
