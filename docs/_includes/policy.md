@@ -11,7 +11,7 @@
 The app reads the **audio and video files on your device** (through Android's media library) to list and play them. Playlists, the play queue, recently played albums, equalizer and sound settings, theme and language choices, and the "ads off for 1 hour" timer are stored only on your device. Uninstalling the app deletes this data. Files are never uploaded by the app.
 
 ## Network use
-The app connects to the internet to load ads and Google's consent form, and to open Google Play's rating prompt. The app plays your own files and works fully offline; it does not stream music or download files.
+The app connects to the internet to load ads and Google's consent form, and to open Google Play's rating prompt. The app plays your own files and works fully offline; it does not download files. If you open the optional **YouTube** screen, the app sends your search words to the YouTube Data API and shows videos in YouTube's own embedded player. YouTube and Google collect data through that player and API under the YouTube Terms of Service (https://www.youtube.com/t/terms) and the Google Privacy Policy (https://policies.google.com/privacy); the developer does not receive it. YouTube videos play only while the app is open, and nothing from YouTube is saved or processed by the app.
 
 ## Permissions
 - **Audio and video (media) access** — to find and play your music and videos.
